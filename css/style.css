@@ -51,6 +51,7 @@ html {
   background-position: top right;
   background-size: cover;
   padding: 60px 15px 100px;
+  background-attachment: fixed;
 }
 
 .heroContent {
