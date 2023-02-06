@@ -61,6 +61,13 @@ html {
   align-items: center;
 }
 
+h1.page-title {
+  font-family: serif;
+  color: white;
+  font-size: 47px;
+  text-align: center;
+}
+
 .heroContainer .logo {
   display: inline-block;
   text-decoration: none;
@@ -123,7 +130,7 @@ html {
   margin-right: 20px !important;
 }
 
-.aboutUs .aboutContent h1 {
+.aboutUs .aboutContent h2 {
   font-size: 30px;
   font-weight: 600;
   color: #cc3333;
@@ -155,7 +162,7 @@ html {
   padding: 40px 0px;
 }
 
-.menuFileContainer h1 {
+.menuFileContainer h2 {
   font-size: 30px;
   font-weight: 600;
   color: #cc3333;
@@ -225,7 +232,7 @@ html {
   margin: 0 auto 35px;
 }
 
-.jurorsFavoriteContainer .heading h1 {
+.jurorsFavoriteContainer .heading h2 {
   font-size: 30px;
   font-weight: 600;
   color: #ffffff;
@@ -300,7 +307,7 @@ html {
   background-color: #f9ead5;
 }
 
-.locationContainer .locationContent h1 {
+.locationContainer .locationContent h2 {
   font-size: 24px;
   font-weight: 700;
   color: #cc3333;
